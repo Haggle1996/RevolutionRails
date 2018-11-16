@@ -19,3 +19,5 @@ options.txt
 usercache.json
 usernamecache.json
 .ReAuth.cfg
+
+config/jei/worldSettings.cfg
