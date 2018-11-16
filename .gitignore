@@ -1,4 +1,5 @@
-
+.mixin.out/
+cache/
 crash-reports/
 fonts/
 journeymap/
@@ -17,3 +18,4 @@ minecraftinstance.json
 options.txt
 usercache.json
 usernamecache.json
+.ReAuth.cfg
