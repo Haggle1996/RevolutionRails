@@ -1,14 +1,15 @@
-.mixin.out/
-cache/
-crash-reports/
-fonts/
-journeymap/
-local/
-logs/
-mods/
-resourcepacks/
-saves/
-screenshots/
+/.mixin.out/
+/cache/
+/crash-reports/
+/fonts/
+/journeymap/
+/local/
+/logs/
+/mods/
+/resourcepacks/
+/saves/
+/screenshots/
+/TombManyGraves/
 
 *.dll
 *.log
