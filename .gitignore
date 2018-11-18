@@ -1,6 +1,7 @@
 /.mixin.out/
 /cache/
 /crash-reports/
+/downloads/
 /fonts/
 /journeymap/
 /local/
@@ -10,6 +11,7 @@
 /saves/
 /screenshots/
 /TombManyGraves/
+/shaderpacks/
 
 *.dll
 *.log
