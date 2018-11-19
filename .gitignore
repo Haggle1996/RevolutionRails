@@ -1,4 +1,5 @@
 /.mixin.out/
+/backups/
 /cache/
 /crash-reports/
 /downloads/
@@ -22,5 +23,9 @@ options.txt
 usercache.json
 usernamecache.json
 .ReAuth.cfg
+optionsof.txt
+optionsshaders.txt
+config/splash.properties
+config/InvTweaks.cfg
 
 config/jei/worldSettings.cfg
